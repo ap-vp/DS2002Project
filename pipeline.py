@@ -315,7 +315,7 @@ def main():
     # 4) Gold
     build_gold_tables()
 
-    print("✅ Pipeline complete.")
+    print("Pipeline complete! :)")
     print("Tables created:")
     print(T_DIM_DATE, T_DIM_MEMBER, T_DIM_REGION, T_DIM_RISK_PROFILE, T_DIM_PLAN, T_FACT_SILVER)
     print(T_GOLD_REGION_SMOKER, T_GOLD_PROVIDER_MONTH)
