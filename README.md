@@ -21,3 +21,5 @@ This repo contains an Azure Databricks notebook that builds a small dimensional 
 
 ## Deliverables
 - Notebook: `DS2002_Project2_Capstone_Lakehouse_AP.ipynb`
+- [DS2002_Project2_Capstone_Lakehouse_AP.ipynb](https://github.com/user-attachments/files/24179684/DS2002_Project2_Capstone_Lakehouse_AP.ipynb)
+
