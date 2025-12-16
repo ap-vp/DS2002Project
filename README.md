@@ -20,4 +20,4 @@ This repo contains an Azure Databricks notebook that builds a small dimensional 
    - joins to static dimensions in **Silver** and produces **Gold** aggregations.
 
 ## Deliverables
-- Notebook: `DS2002_Project2_Capstone_Lakehouse_FIXED.ipynb`
+- Notebook: `DS2002_Project2_Capstone_Lakehouse_AP.ipynb`
